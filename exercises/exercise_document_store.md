@@ -1,1 +1,0 @@
-Damit das Projekt in einem eigenen CodeSpace geöffnet werden kann und dort MongoDB initialisiert werden kann haben wir ein eigenes Repository angelegt, welches unter folgendem Link zu finden ist: https://github.com/Lubelus/no-sql-document-stores

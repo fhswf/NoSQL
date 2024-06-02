@@ -1,1 +1,0 @@
-Unser Beispielcode und die Übung zu Redis ist unter https://github.com/arturest/FH-SWF-Redis zu finden. Unser Memcached-Beispiel findet sich unter https://github.com/johngockel/memcached_example.
